@@ -1,0 +1,34 @@
+.add_delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quantity {
+  border-style: groove;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+}
+.totalCart {
+  max-height: 41vh;
+  margin-top: 2vh;
+  padding: 0px;
+}
+.totalCart-body {
+  padding: 1.25rem 0px 0px;
+}
+
+.float-left {
+  text-align: left;
+}
+.cartDataTable {
+  border-collapse: separate;
+  border-spacing: 0 1em;
+}
+.refreshBtn {
+  float: right;
+  border: 1px solid gainsboro;
+  background: gainsboro;
+}
+.refreshbtn:hover {
+  background: rgb(146, 144, 144);
+}
